@@ -1,0 +1,73 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Estilos para o título principal */
+h1 {
+    font-size: 2rem;
+}
+
+/* Estilos para o container principal */
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para parágrafos */
+p {
+    line-height: 1.5;
+}
+
+/* Estilos para títulos secundários */
+h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+/* Estilos para listas */
+ul {
+    padding-left: 20px;
+}
+
+/* Estilos para imagens */
+.image {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/* Estilos para dicas */
+.tips {
+    margin-top: 30px;
+}
+
+/* Estilos para artigos */
+.article {
+    margin-bottom: 40px;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
