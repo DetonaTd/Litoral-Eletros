@@ -6,6 +6,10 @@ body {
     padding: 0;
 }
 
+.image {
+    width: 100%; /* Largura 100% */
+    margin-bottom: 20px; /* Espaçamento inferior */
+}
 /* Estilos para o cabeçalho */
 header {
     background-color: #333;
